@@ -8,7 +8,7 @@ LLM_API = "http://192.168.22.154:8000/v1/chat/completions"
 
 AVAILABLE_MODELS = [
     "DeepSeek-Coder-V2-Lite-Instruct-Q4_K_M",
-    "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q4_K_P",
+    "Qwen3.6-35B-A3B-UD-Q5_K_XL.gguf",
     "Qwen3VL-8B-Uncensored-HauhauCS-Balanced",
 ]
 
